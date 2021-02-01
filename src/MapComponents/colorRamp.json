@@ -1,0 +1,25 @@
+{
+  "type": "multipart",
+  "colorRamps": [{
+    "fromColor": [175, 240, 233],
+    "toColor": [255, 255, 179]
+  }, {
+    "fromColor": [255, 255, 179],
+    "toColor": [0, 128, 64]
+  }, {
+    "fromColor": [0, 128, 64],
+    "toColor": [252, 186, 3]
+  }, {
+    "fromColor": [252, 186, 3],
+    "toColor": [128, 0, 0]
+  }, {
+    "fromColor": [120, 0, 0],
+    "toColor": [105, 48, 13]
+  }, {
+    "fromColor": [105, 48, 13],
+    "toColor": [171, 171, 171]
+  }, {
+    "fromColor": [171, 171, 171],
+    "toColor": [255, 252, 255]
+  }]
+}
